@@ -1,7 +1,11 @@
 ### Hi there 👋
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vivek9patel&color=blueviolet&style=flat">
+</p>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Amirsorouri00&theme=dracula&show_icons=true&count_private=true&include_all_commits=true&hide_border=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirsorouri00&theme=dracula&layout=compact&hide_border=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Amirsorouri00&theme=algolia&show_icons=true&count_private=true&include_all_commits=true&hide_border=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirsorouri00&theme=algolia&layout=compact&hide_border=true">
 </p>
 
 <p align="right">
