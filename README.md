@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Amir Hossein Sorouri</h1>
 <h3 align="center">A passionate computer engineer student</h3>
 
