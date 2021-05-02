@@ -23,11 +23,10 @@
 
 ### 🛠 &nbsp;Languages and Tools
 
+<br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff)
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-
-<br>
 
 ![PHP](https://img.shields.io/badge/-PHP-FFCA28?style=for-the-badge&logo=php&logoColor=ffffff)
 ![Go](https://img.shields.io/badge/-Go-000000?style=for-the-badge&logo=go&logoColor=ffffff)
