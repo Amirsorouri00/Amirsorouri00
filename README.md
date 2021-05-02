@@ -30,9 +30,7 @@
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 <br>
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-<br>
+
 
 ![PHP](https://img.shields.io/badge/-PHP-FFCA28?style=for-the-badge&logo=php&logoColor=ffffff)
 ![Go](https://img.shields.io/badge/-Go-000000?style=for-the-badge&logo=go&logoColor=ffffff)
