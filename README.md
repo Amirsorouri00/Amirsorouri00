@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Amir Hossein Sorouri</h1>
-<h3 align="center">A passionate computer engineer student</h3>
+<h3 align="center">A passionate computer engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vivek9patel&color=blueviolet&style=flat">
